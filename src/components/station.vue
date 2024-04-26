@@ -66,7 +66,7 @@
   </div>
    </div>
     <div>
-      <h1>Station Info: {{ stationcode }}</h1>
+      <h1>Les information Station: {{ stationcode }}</h1>
     </div>
     <div class="Station">
     <div class="gauche">
